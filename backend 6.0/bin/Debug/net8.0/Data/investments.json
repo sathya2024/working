@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "f8e704c4-6502-4d4e-9471-8e74f5be23e9",
+    "UserId": 3,
+    "Type": "stock",
+    "TransactionType": "buy",
+    "StockName": "Reliance",
+    "DematAccount": "Groww",
+    "PurchaseDate": "2025-05-05T06:48:26.465Z",
+    "NumberOfShares": 20,
+    "Brokerage": 0.1,
+    "BrokerageType": "%",
+    "PurchasePrice": 3000
+  },
+  {
+    "Id": "1",
+    "UserId": 3,
+    "Type": "stock",
+    "TransactionType": "buy",
+    "StockName": "TCS",
+    "DematAccount": "Zerodha",
+    "PurchaseDate": "2025-04-10",
+    "NumberOfShares": 20,
+    "Brokerage": 0.1,
+    "BrokerageType": "%",
+    "PurchasePrice": 3200
+  },
+  {
+    "FixedIncomeName": "National Savings Bond 2025",
+    "InvestmentDate": "2025-05-06T00:00:00",
+    "InvestmentAmount": 100000,
+    "CouponRate": 7.25,
+    "CompoundingFrequency": "Annual",
+    "InterestType": "Fixed",
+    "MaturityDate": "2030-05-06T00:00:00",
+    "RedemptionDate": null,
+    "SellPrice": null,
+    "Id": "4b3e60ec-2525-45a0-a3ba-22b249455505",
+    "UserId": 1,
+    "Type": "Bond",
+    "TransactionType": "Buy"
+  },
+  {
+    "SchemeName": "Axis Bluechip Fund",
+    "FolioNumber": "AXIS987654",
+    "AmountType": "Lumpsum",
+    "Amount": 15000,
+    "Price": 58.25,
+    "RedemptionDate": null,
+    "SellPrice": null,
+    "Id": "c88f595f-c8f0-4db0-b02a-5cc9d1164408",
+    "UserId": 2,
+    "Type": "MutualFund",
+    "TransactionType": "Buy"
+  }
+]
